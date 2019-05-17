@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Date",
+    "type": "date",
+    "format": "%d/%m/%Y"
+  },
+  {
+    "name": "Place",
+    "type": "string"
+  },
+  {
+    "name": "Temperature",
+    "type": "number"
+  },
+  {
+    "name": "Humidity",
+    "type": "number"
+  }
+]

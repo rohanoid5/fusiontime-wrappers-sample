@@ -1,4 +1,4 @@
-const data = [
+[
   ["01/01/1990", "Emerald City", 25, 62],
   ["01/01/1990", "Gotham City", 0, 64],
   ["02/01/1990", "Emerald City", 12, 57],
@@ -21181,4 +21181,4 @@ const data = [
   ["29/12/2018", "Gotham City", 23, 71],
   ["30/12/2018", "Emerald City", 32, 58],
   ["30/12/2018", "Gotham City", -3, 70]
-];
+]
